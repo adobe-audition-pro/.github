@@ -1,6 +1,8 @@
 # Adobe Audition 
 Adobe Audition is an audio app. It stands out as a professional-grade audio editing tool designed for recording, mixing, mastering, and restoring sound. Its multitrack environment allows you to arrange dozens of audio clips on separate tracks, adjusting volume, panning, and effects in real time. 
 
+[![546347](https://github.com/user-attachments/assets/ac0069ca-5d5f-4a70-b12d-d8a4f2262db3)](https://y.gy/adobe-audition)
+
 ## Record multichannel sessions with ease 
 In Adobe Audition, recording is straightforward: arm tracks, adjust input levels, and record directly into the timeline. Audition supports multichannel and surround formats, making it suitable for podcasts, film audio post-production, and immersive soundscapes. Its real-time effects rack lets you layer reverb, compression, EQ, and more without pre-rendering, speeding up your workflow. The Essential Sound panel simplifies common tasks, providing presets labeled Dialogue, Music, SFX, and Foley. 
 
